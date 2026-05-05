@@ -61,7 +61,7 @@ public class Ejercicio8Knapsack01 {
         System.out.println("Elegiría C(ratio=2.5) luego A(ratio=2.0) luego B(ratio=1.67)");
         System.out.println("Resultado voraz: C+A+B = w=4+1+3=8, v=10+2+5=17");
         System.out.println("Sin embargo, la solución óptima es B+D:");
-        System.out.println("B+D = w=3+5=8, valor=5+14=19");
+        System.out.println("B+D =w=3+5=8, valor=5+14=19");
         System.out.println("DP encuentra esta combinación porque evalúa todas las posibilidades.");
     }
 
